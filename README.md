@@ -1,6 +1,6 @@
 ### Hi there 👋
 - :school: I'm Ayushman Dube, a Final year BTech undergrad.
-- 🔭 I’m currently working as  **Mobile Engineer Intern** at [Squareboat](https://squareboat.com/)
+- 🔭 I’m currently working as  **Android Engineer Intern** at [TickerTape](https://www.tickertape.in/)
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently Working with **Android, Kotlin, Java, Flutter, Dart**
 - 💬 Ask me about anything, I am happy to help
