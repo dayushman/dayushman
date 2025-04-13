@@ -1,6 +1,6 @@
 ### Hi there 👋
-- :school: I'm Ayushman Dube, a Final year BTech undergrad.
-- 🔭 I’m currently working as  **Android Engineer** at [TickerTape](https://www.tickertape.in/)
+- :school: I'm Ayushman Dube, A Software Engineer.
+- 🔭 I’m currently working as  **Android Engineer** at Zomato
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently Working with **Android, Kotlin, Java, Flutter, Dart**
 - 💬 Ask me about anything, I am happy to help
